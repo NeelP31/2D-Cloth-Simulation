@@ -8,7 +8,7 @@ Ever wanted to simulate realistic cloth physics in a 2D environment? This 2D Clo
 Features
 --------
 1. Verlet Integration – Provides smooth and stable motion without explicit velocity calculations.
-2. Cloth & Softbody Physics – Simulates fabric-like behavior with constraints and elasticity.
+2. Cloth & Softbody Physics – Simulates fabric-like behaviour with constraints and elasticity.
 3. Realistic Constraints – Ensures proper structural integrity and movement.
 4. Performance Optimized: Designed to be fast and lightweight for real-time applications.
 
@@ -16,8 +16,7 @@ Demo
 -------
 Coming Soon!
 
-![Physics Engine - Demo](https://github.com/user-attachments/assets/db06285f-545f-4f74-8547-c62d871c5b18)
-
+![9p239c](https://github.com/user-attachments/assets/f304fcef-eda5-4da3-91df-1a81ce2c3c08)
 
 Dependencies
 -------
